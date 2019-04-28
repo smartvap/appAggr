@@ -10,8 +10,8 @@ dict = {
     'lnkPrefix': 'https://www.ppkao.com/tiku/shiti/',
     'lnkSuffix': '.html',
     'idleTime': '10',
-    'db_user': 'tbcs',
-    'db_pass': 'tbcsbcv',
+    'db_user': 'c##k8s',
+    'db_pass': 'k8s',
     'db_tns': 'c5csyybcv1'
 }
 
